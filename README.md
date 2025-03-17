@@ -1,4 +1,4 @@
-# RandoRepoofRepos
+# RandoRepofRepos
 Random series of my own personal notes and favorite repos for pentesting. Updated regularly as I remember to add things.
 
 ### Hack the Box VPN
